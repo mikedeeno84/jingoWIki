@@ -6,6 +6,7 @@ Some examples:
 * Enviroment Setup
 * Roadblocks
 * Useful Resources
+
 [[Cedrus Tech Wiki]]    
 ```javascript
 var s = "JavaScript syntax highlighting";
